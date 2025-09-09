@@ -7,12 +7,21 @@ A comprehensive Streamlit dashboard for analyzing loan application data and pred
 🚀 Key Features
 
 5 interactive pages with different analytical perspectives
+
 50+ KPIs tracking critical risk metrics
 
 📈 Key Metrics Tracked
 
 Default rates across demographic segments
+
 Income-to-loan ratios
+
 Employment history patterns
+
 Family status risk correlations
+
 Financial behavior indicators
+
+
+
+Deloyed App - https://appdashboard-ak2ncbfh3ds36vvfh7umbr.streamlit.app/
