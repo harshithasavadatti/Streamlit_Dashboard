@@ -48,7 +48,6 @@ Pygments==2.19.2
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 pytz==2025.2
-pywin32==311
 pyzmq==27.0.0
 referencing==0.36.2
 requests==2.32.5
@@ -69,3 +68,4 @@ urllib3==2.5.0
 watchdog==6.0.0
 wcwidth==0.2.13
 xlrd==2.0.2
+
