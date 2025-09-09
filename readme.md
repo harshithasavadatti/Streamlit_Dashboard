@@ -24,4 +24,4 @@ Financial behavior indicators
 
 
 
-Deloyed App - https://appdashboard-ak2ncbfh3ds36vvfh7umbr.streamlit.app/
+Deloyed App - https://appdashboard-5drgzaykvcdhacxxefvczg.streamlit.app/
