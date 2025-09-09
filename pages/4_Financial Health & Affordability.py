@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import altair as alt
-  
+import matplotlib as plt
 from utils.load_data import load_data
 
 # Load data
