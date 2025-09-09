@@ -109,4 +109,3 @@ st.markdown("""
 <b>Business insights are highlighted below every chart!</b>
 </div>
 """, unsafe_allow_html=True)
-
