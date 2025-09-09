@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import altair as alt
 import matplotlib.pyplot as plt
-imoprt seaborn as sns
+import seaborn as sns
 from utils.load_data import load_data
 
 # Load data
