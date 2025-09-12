@@ -25,5 +25,7 @@ Financial behavior indicators
 
 
 Deloyed App - https://appdashboard-5drgzaykvcdhacxxefvczg.streamlit.app/
+
 Updated App - https://home-credit-default-risk-dashboard-ht7brffnfel5tdrhbv5o4c.streamlit.app/
-      Updated github link - https://github.com/harshithasavadatti/Home-Credit-Default-Risk-Dashboard
+
+Updated github link - https://github.com/harshithasavadatti/Home-Credit-Default-Risk-Dashboard
